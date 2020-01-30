@@ -102,7 +102,7 @@ const defaultConfig = {
 | `node` | `Node` | `document.createElement('div')` | Dom element for notification's container |
 | `style` | `Object` | Object of objects | Styles that would be applyied for notifications (after they wuld be translated from `js` to `css`  |
 
-# Notifications structure
+# Notifications    structure
 
 ```HTML
 <!-- Container-->
